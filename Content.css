@@ -1,0 +1,77 @@
+.container-fluid.bg-light {
+    padding: 5% 0% 5% 6%;
+}
+
+.job-title {
+    color: rgb(12, 191, 185);
+    font-weight: 500;
+}
+
+.filter {
+    margin-bottom: 5em;
+    margin-left: 10%;
+}
+
+.location {
+    font-size: medium;
+}
+
+ul, h6 {
+    list-style-type: none;
+    color: rgb(44, 44, 44);
+    margin-right: 10%;
+}
+
+h4 {
+    color: rgb(33, 33, 34);
+    font-weight: bold;
+    display: inline-block;
+    line-height: 1em;
+}
+
+.filter-content {
+    font-weight: 350;
+}
+
+.bi.bi-geo-alt-fill::before {
+    margin-bottom: 2px;
+}
+
+.footer {
+    margin: 2%;
+}
+
+.footer-link-2 {
+    float: right;
+}
+
+.bi.bi-search {
+    color: white;
+    background-color: rgb(12, 191, 185);
+    width: 5%;
+}
+
+.learn {
+    float: right;
+    color: rgb(12, 191, 185);
+    font-size: large;
+    font-weight: 700;
+}
+
+a {
+    color: rgb(12, 191, 185);
+}
+
+.job-title:hover, a:hover {
+    color: rgb(4, 225, 217);
+
+}
+
+.footer-link-2:hover {
+    cursor: pointer;
+    color: rgb(160, 160, 160);
+}
+
+.location {
+    text-decoration-color: black;
+}
